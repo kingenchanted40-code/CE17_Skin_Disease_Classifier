@@ -9,6 +9,7 @@ from PIL import Image
 os.makedirs("models", exist_ok=True)
 
 MODEL_PATH = "models/skin_classifier.keras"
+MODEL_URL = "https://github.com/kingenchanted40-code/CE17_Skin_Disease_Classifier/releases/download/v1.0.0/skin_classifier.keras"
 
 # Replace this later with your GitHub Release link
 MODEL_URL = "YOUR_GITHUB_RELEASE_MODEL_LINK"
