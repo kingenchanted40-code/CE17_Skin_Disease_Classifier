@@ -70,7 +70,7 @@ and displays the prediction confidence.
 
 ## GitHub Repository
 
-https://github.com/novajagen088-dot/CE17_Skin_Disease_Classifier
+https://github.com/kingenchanted40-code/CE17_Skin_Disease_Classifier
 
 ## Author
 
